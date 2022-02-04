@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://www.instagram.com/amine_hajamor/">Amine Haj Amor</a></h2>
-<p>  <strong> I'm Full-stack Web Developer </strong></p>
+<p>  <strong> I'm Full-stack JavaScript Developer </strong></p>
 
 <p>Anyway, thanks for visiting my Github profile!</p>
 <h2>⚡️ A Few Quick Facts</h2>
